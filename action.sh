@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "$PWD"
 set -e
 
 function print_info() {
